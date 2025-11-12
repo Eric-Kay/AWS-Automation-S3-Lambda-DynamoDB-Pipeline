@@ -127,8 +127,8 @@ Here’s what happens under the hood:
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/aws-s3-lambda-dynamodb.git
-   cd aws-s3-lambda-dynamodb
+   git clone https://github.com/Eric-Kay/AWS-Automation-S3-Lambda-DynamoDB-Pipeline.git
+   cd AWS-Automation-S3-Lambda-DynamoDB-Pipeline
    ```
 
 2. **Run the script:**
