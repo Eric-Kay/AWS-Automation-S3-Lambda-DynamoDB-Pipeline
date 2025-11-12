@@ -181,7 +181,7 @@ IAM Role: LambdaS3DynamoRole
 
 To remove all created resources:
 
-1. Delete the **clean_up_serverless**:
+1. Run the **clean_up_serverless.py script**:
 
    ```bash
    pytnon3 clean_up_serverless.py
